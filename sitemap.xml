@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.crayon.cool/about/index.html</loc>
+    
+    <lastmod>2020-07-10T17:47:49.125Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.crayon.cool/Gallery/index.html</loc>
+    
+    <lastmod>2020-07-10T17:47:20.274Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.crayon.cool/messageboard/index.html</loc>
+    
+    <lastmod>2020-07-10T17:23:02.719Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.crayon.cool/music/index.html</loc>
     
     <lastmod>2020-07-10T16:58:29.981Z</lastmod>
@@ -19,13 +40,6 @@
     <loc>http://www.crayon.cool/movies/index.html</loc>
     
     <lastmod>2020-07-10T16:37:06.587Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.crayon.cool/messageboard/index.html</loc>
-    
-    <lastmod>2020-07-10T16:37:06.583Z</lastmod>
     
   </url>
   
@@ -51,23 +65,9 @@
   </url>
   
   <url>
-    <loc>http://www.crayon.cool/about/index.html</loc>
-    
-    <lastmod>2020-07-10T16:37:06.573Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.crayon.cool/archives/4a17b156.html</loc>
     
     <lastmod>2020-07-10T16:37:06.571Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.crayon.cool/Gallery/index.html</loc>
-    
-    <lastmod>2020-07-10T16:37:06.565Z</lastmod>
     
   </url>
   
